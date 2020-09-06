@@ -4,7 +4,7 @@ Mini Jam 2020 - Theme: Colors
 
 # Project Mini Jam 62 Colors - 2020
 
-![Space Shooter](https://github.com/iseta/ProjetoWGJ2020/blob/master/Images/Ella.jpg)
+![Space Shooter](https://github.com/ShellyLeal/SpaceShooter/blob/master/Images/gamefront.jpeg)
 
 **Game link**: https://shellyleal.itch.io/space-shooter
 
