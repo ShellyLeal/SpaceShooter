@@ -20,6 +20,8 @@ https://drive.google.com/file/d/1e-rDgRQCg-bWqydcSSSJXYHUFkezJgau/view?usp=shari
 
 Content, programming and game design: <a href="https://br.linkedin.com/in/shelly-leal" target="_blank">Shelly Gabriela Leal</a>
 
+![Logo](https://github.com/ShellyLeal/SpaceShooter/blob/master/Images/bamboot.jpg)
+
 
 **Sound Design/ SoundTrack**
 
