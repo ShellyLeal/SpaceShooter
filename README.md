@@ -4,7 +4,7 @@ Mini Jam 2020 - Theme: Colors
 
 # Project Mini Jam 62 Colors - 2020
 
-![Space Shooter](https://github.com/iseta/ProjetoWGJ2020/blob/master/Images/Ella.jpg)
+![Space Shooter](https://github.com/ShellyLeal/SpaceShooter/blob/master/Images/gamefront.jpeg)
 
 **Game link**: https://shellyleal.itch.io/space-shooter
 
@@ -19,6 +19,8 @@ https://drive.google.com/file/d/1e-rDgRQCg-bWqydcSSSJXYHUFkezJgau/view?usp=shari
 **Credits**
 
 Content, programming and game design: <a href="https://br.linkedin.com/in/shelly-leal" target="_blank">Shelly Gabriela Leal</a>
+
+![Logo](https://github.com/ShellyLeal/SpaceShooter/blob/master/Images/bamboot.jpg)
 
 
 **Sound Design/ SoundTrack**
